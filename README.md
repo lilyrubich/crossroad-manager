@@ -15,3 +15,5 @@ So, the solution of the problem of pedestrians and cars not crossing is to turn 
 To increase the throughput of an intersection, the application has a task that calculates the optimal operating time of each traffic light.
 
 The yellow light only comes on for traffic lights for drivers and only 1 second before the green light turns on.
+
+When traffic light is turned on (green) one visitor from the queue can cross the intersection per 1 second.
